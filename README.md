@@ -1,2 +1,2 @@
-# sql-for-net-programmers
-Book on MS-SQL
+# [SQL for .NET Programmers](https://davembush.github.io/sql-for-net-programmers/)
+
